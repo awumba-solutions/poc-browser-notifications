@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://awumba-solutions.github.io/poc-browser-notifications/static/css/main.073c9b0a.css",
-    "main.js": "https://awumba-solutions.github.io/poc-browser-notifications/static/js/main.25be88ac.js",
+    "main.css": "https://awumba-solutions.github.io/poc-browser-notifications/static/css/main.97119d7a.css",
+    "main.js": "https://awumba-solutions.github.io/poc-browser-notifications/static/js/main.469841c8.js",
     "static/js/787.2bf5d1e5.chunk.js": "https://awumba-solutions.github.io/poc-browser-notifications/static/js/787.2bf5d1e5.chunk.js",
     "service-worker.js": "https://awumba-solutions.github.io/poc-browser-notifications/service-worker.js",
     "static/media/logo.svg": "https://awumba-solutions.github.io/poc-browser-notifications/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "https://awumba-solutions.github.io/poc-browser-notifications/index.html",
-    "main.073c9b0a.css.map": "https://awumba-solutions.github.io/poc-browser-notifications/static/css/main.073c9b0a.css.map",
-    "main.25be88ac.js.map": "https://awumba-solutions.github.io/poc-browser-notifications/static/js/main.25be88ac.js.map",
+    "main.97119d7a.css.map": "https://awumba-solutions.github.io/poc-browser-notifications/static/css/main.97119d7a.css.map",
+    "main.469841c8.js.map": "https://awumba-solutions.github.io/poc-browser-notifications/static/js/main.469841c8.js.map",
     "787.2bf5d1e5.chunk.js.map": "https://awumba-solutions.github.io/poc-browser-notifications/static/js/787.2bf5d1e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.25be88ac.js"
+    "static/css/main.97119d7a.css",
+    "static/js/main.469841c8.js"
   ]
 }
