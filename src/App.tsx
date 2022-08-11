@@ -1,12 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import alogo from "./alogo.png";
+
+const invokeNotification = async () => {
+  const result = await Notification.requestPermission();
+  if (result === "granted") {
+    new Notification("Hello from Awumba!", {
+      icon: alogo,
+      body: `Notification triggered at ${new Date()}`,
+    });
+  }
+};
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" onClick={invokeNotification} />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
